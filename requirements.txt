@@ -2,6 +2,5 @@ torch
 torchvision
 opencv-python
 numpy
-streamlit
 pillow
 albumentations
