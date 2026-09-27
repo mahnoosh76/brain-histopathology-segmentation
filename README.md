@@ -50,22 +50,6 @@ The model was evaluated separately for each class using Precision, Recall, F1-sc
 **Mean Dice:** 0.4084
 
 
-
-## Features
-
-- Multi-class semantic segmentation
-- U-Net architecture implemented in PyTorch
-- Histopathological image analysis
-- Streamlit web application for inference
-
-## Project Structure
-
-- `train.py` – Model training
-- `inference.py` – Prediction on new images
-- `unet.py` – U-Net architecture
-- `app.py` – Streamlit web application
-- `model_selector.py` – Model loading utilities
-
 ## Author
 
 Mahnoosh Parsa
