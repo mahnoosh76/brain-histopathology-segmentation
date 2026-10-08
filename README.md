@@ -49,6 +49,9 @@ The model was evaluated separately for each class using Precision, Recall, F1-sc
 **Mean IoU:** 0.3126
 **Mean Dice:** 0.4084
 
+<img width="586" height="304" alt="image" src="https://github.com/user-attachments/assets/ab190025-a5ac-4e41-bff3-42946eeb5ed9" />
+<img width="586" height="304" alt="image" src="https://github.com/user-attachments/assets/7a8f250c-9ee4-4994-b106-f96d44193dba" />
+<img width="577" height="300" alt="image" src="https://github.com/user-attachments/assets/f290d600-8a1c-4308-9d8b-ac83f8de84db" />
 
 ## Author
 
